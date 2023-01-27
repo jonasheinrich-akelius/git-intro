@@ -1,3 +1,13 @@
+- Explain in pseudo code (that is: text) what is happening when a commit created
+- How is a commit stored?
+- Explain in pseudo code (that is: text) what is happening when you checkout a different branch
+- Does it matter on which branch git fetch is called? What commands are independent from the branch they are called on?
+- What params does fetch take?
+- What is a remote?
+- Why is there the branch dev and origin/dev?
+- What branch gets updated by fetch and what by pull?
+- How do you undo a change to a file?
+- How do you switch a branch?
 - Show the content of the last commit
 - Show the history and read the last 3 commit hashes
 - Show the content of the previous commit
