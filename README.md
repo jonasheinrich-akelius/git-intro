@@ -1,3 +1,5 @@
+## 2023-03-28
+
 - checkout main
 - pull the latest changes
 - create your own branch in the git-intro repo
@@ -18,7 +20,7 @@
 - go back to your first branch
 - merge the second branch and push the changes to the remote (merge conflict should happen, solve it ;) )
 
-
+## older
 
 - Explain in pseudo code (that is: text) what is happening when a commit created
 - How is a commit stored?
