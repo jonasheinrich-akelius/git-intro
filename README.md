@@ -1,3 +1,25 @@
+- checkout main
+- pull the latest changes
+- create your own branch in the git-intro repo
+- find the latest commit in the log
+- look at the latest commit (including the changes)
+- create a textfile and enter something into it
+- commit that file with a (meaningful ;) ) message
+- find the commit in the log/history and look at the author etc
+- change the textfile
+- commit the changes
+- change the textfile again
+- amend the previous commit
+- push your changes to the remote
+- checkout main
+- create yet another branch
+- create a textfile with the same name but add different content
+- commit it and push the branch to the remote
+- go back to your first branch
+- merge the second branch and push the changes to the remote (merge conflict should happen, solve it ;) )
+
+
+
 - Explain in pseudo code (that is: text) what is happening when a commit created
 - How is a commit stored?
 - Explain in pseudo code (that is: text) what is happening when you checkout a different branch
