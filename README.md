@@ -1,3 +1,27 @@
+## 2023-06-21
+
+- checkout main
+- pull the latest changes
+- create your own branch in the git-intro repo
+- find the latest commit in the log
+- look at the latest commit (including the changes)
+- create a textfile and enter something into it
+- commit that file with a (meaningful ;) ) message
+- find the commit in the log/history and look at the author etc
+- change the textfile
+- commit the changes
+- change the textfile again
+- amend the previous commit
+- push your changes to the remote
+- checkout main
+- create yet another branch
+- create a textfile with the same name but add different content
+- commit it and push the branch to the remote
+- go back to your first branch
+- rebase the second branch and push the changes to the remote (merge conflict should happen, solve it ;) )
+- do it again and rebase interactively
+- what commits do you see listed and why?
+
 ## 2023-03-28
 
 - checkout main
